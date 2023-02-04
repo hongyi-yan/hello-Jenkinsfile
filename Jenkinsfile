@@ -19,11 +19,3 @@ pipeline {
         }
     }
 }
-
-
-
-stage
-
-stage 
-
-stage
